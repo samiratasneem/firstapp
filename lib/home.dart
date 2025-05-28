@@ -40,7 +40,7 @@ class _HomeScreenState extends State<HomeeScreen> with SingleTickerProviderState
       drawer: _buildNebBarDrawer(),
       body: SafeArea(
         child: Padding(
-          padding: EdgeInsets.only(top: 15),
+          padding: EdgeInsets.only(top: 16),
           child: ListView(
             children: [
               Padding(
