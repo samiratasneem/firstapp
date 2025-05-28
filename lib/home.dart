@@ -44,7 +44,7 @@ class _HomeScreenState extends State<HomeeScreen> with SingleTickerProviderState
           child: ListView(
             children: [
               Padding(
-                padding: EdgeInsets.symmetric(horizontal: 15),
+                padding: EdgeInsets.symmetric(horizontal: 16),
                 child: Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [
